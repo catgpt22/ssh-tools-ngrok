@@ -25,7 +25,7 @@ echo -e "$red██████╔╝██████╔╝██║░░█�
 echo -e "$red╚═════╝░╚═════╝░╚═╝░░╚═╝"
 
 echo -e ""
-echo -e "$red[$green~$red] Author :$white Ferdi"
+echo -e "$red[$green~$red] Author :$white Ferdi/TC20"
 echo -e "$red[$green~$red] Team :$white TC20"
 echo -e "$red[$green~$red] Tools :$white Server X"
 echo ""
