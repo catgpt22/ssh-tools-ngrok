@@ -42,7 +42,7 @@ clear
 sleep 3
 	apt install openssh
 apt install openssh-server
-ssh root@0.tcp.ap.ngrok.io -p 10568
+ssh root@0.tcp.ap.ngrok.io -p 17176
 
 fi 
 
